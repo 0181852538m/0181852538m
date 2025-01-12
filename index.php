@@ -1,7 +1,7 @@
 <?php
-$admin = 7085518097;
+$admin =6669719780
 $token = file_get_contents("token.txt");
-$brokweb = "https://dddoip.serv00.net/vvvvvv";
+$brokweb = https://github.com/0181852538m/0181852538m.git;
 #==================#
 
 #==================#
@@ -400,7 +400,7 @@ bot('sendmessage',[
 ]);
 }
 #================#
-if($data =="ach"){
+
 bot('editmessagetext',[
 'chat_id'=>$chat_id2, 
 'message_id'=>$update->callback_query->message->message_id,
